@@ -1,0 +1,26 @@
+{
+  "name": "glsl-scale-log",
+  "version": "1.0.0",
+  "description": "A logarithmic scale for glslify",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "author": {
+    "name": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "http://hughsk.io/"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stackgl/glsl-scale-log.git"
+  },
+  "keywords": [
+    "ecosystem:stackgl"
+  ],
+  "homepage": "https://github.com/stackgl/glsl-scale-log",
+  "bugs": {
+    "url": "https://github.com/stackgl/glsl-scale-log/issues"
+  }
+}
